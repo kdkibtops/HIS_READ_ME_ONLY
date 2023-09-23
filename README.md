@@ -21,7 +21,8 @@ Lastly I wanted to turn my project to typescript but I have some issues with the
 
 ### The Application has the following functions:
 
-#### FrontEnd: it uses react to view orders, patients, studies, users, user configuration with the possibility to upload files.
+#### FrontEnd: 
+It uses react to view orders, patients, studies, users, user configuration with the possibility to upload files.
 
 #### BackEnd:
 
