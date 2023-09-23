@@ -2,7 +2,7 @@
 
 ## Description:
 
-Quality assurance Radiology assist app
+Quality assurance Radiology assistant application that can help in managing Radiology departments while sticking to the quality standards so the department can get accrediation easily avoiding too much paper work.
 
 ## Goal:
 
